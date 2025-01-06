@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GutcutterTheOne
-- 👀 I’m interested in Raspberry Pi, Arduino and DIY projects.
+- 👀 I’m interested in Raspberry Pi, Arduino, Linux and DIY projects.
 - 🌱 I’m currently learning with The Odin Project; then on to Python and C++.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn how to collaborate on open source projects.
 - 📫 How to reach me Gutcutter500@gmail.com
 
 - ⚡ Fun fact: My dad was a former NFL football player for the Green Bay Packers.
